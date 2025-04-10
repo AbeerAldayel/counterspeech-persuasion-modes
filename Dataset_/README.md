@@ -19,7 +19,7 @@ This repository contains the **persuasion-mode annotations** applied to two well
 To conduct our experiment, we selected two recent and well-known counterspeech datasets:
 
 - **DialogConan** (Bonaldi et al., 2022):  
-  This dataset includes approximately **3,000 unique dialogues** and nearly **16,000 instances** of turn-taking conversations between two users. The conversations span the following domains:
+  This dataset includes turn-taking conversations between two users. The conversations span the following domains:
   - Racism  
   - Sexism  
   - Religious bigotry
