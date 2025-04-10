@@ -11,7 +11,7 @@
 
 ## Overview
 
-This repository contains the **persuasion-mode annotations** applied to two well-known counterspeech datasets, focusing on dialog-based hate speech responses. The goal is to analyze the rhetorical strategies (logos, ethos, pathos) used to counter online hate.
+This repository contains the **persuasion-mode annotations** applied to two well-known counterspeech datasets, focusing on dialog-based hate speech responses. We provide a coarse-grain examination of the persuasion modes used in hate speech and counterspeech based on emotion, reason, and credibility.
 
 
 ---
@@ -28,16 +28,16 @@ Note: We release persuasion **label data** associated with each turn ID. Refer t
 
 ## Label Definitions
 
-Each utterance is labeled with one or more modes of persuasion:
+Each utterance is labeled with modes of persuasion:
 
 - **Reason**  
-  Represents *logos* – logical appeals using evidence, examples, or reasoning.
+  This label indicates logos as a mode of persuasion. It appeals to the utilization of logic or reason (e.g., presenting related examples or supporting evidence).
 
 - **Credibility**  
-  Represents *ethos* – appeals based on personal experience or authority of the speaker.
+  Represents ethos as a mode of persuasion. It relies on the credibility or authority derived from the speaker’s personal experience.
 
 - **Emotion**  
-  Represents *pathos* – appeals to feelings, values, or emotional states of the audience.
+  Represents pathos as a mode of persuasion. It evokes the emotions and feelings of the audience or puts them in a certain mood, appealing to their emotions.
 
 ---
 
