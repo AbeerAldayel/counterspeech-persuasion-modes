@@ -1,4 +1,4 @@
-# Counterspeech-persuasion-modes dataset Description
+# Counterspeech-persuasion-modes dataset description
 # Hatred Stems from Ignorance: Persuasion Modes in Countering Hate Speech
 
 **Alyahya, G. & Aldayel, A. (2025).**  
