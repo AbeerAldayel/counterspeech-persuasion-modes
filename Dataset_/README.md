@@ -5,7 +5,6 @@
 *To appear in the Proceedings of the nineteenth International AAAI Conference on Web and Social Media (ICWSM 2025)*
 
 📄 [Read the Paper](https://arxiv.org/abs/2403.15449)  
-🗂️ CC0-1.0 License  
 
 ---
 
