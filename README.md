@@ -39,6 +39,15 @@ Each utterance is labeled with modes of persuasion:
 - **Emotion**  
   Represents pathos as a mode of persuasion. It evokes the emotions and feelings of the audience or puts them in a certain mood, appealing to their emotions.
 
+Extra Note
+
+The title "Hatred Stems from Ignorance" reflects the study's core theoretical grounding of persuasion in Aristotle’s Rhetoric, particularly as interpreted in the work of Cope, E. M., and Sandys, J. E. (2010). This rhetorical foundation aligns with the insights of Ibn Rushd (Averroes), a renowned philosopher known for reintroducing and interpreting Aristotle’s texts.
+
+The phrase draws inspiration from one of Ibn Rushd's most well-known quotes on hate and ignorance:
+
+> “Ignorance leads to fear, fear leads to hatred, and hatred leads to violence. This is the equation.”  
+> — Ibn Rushd (Averroes)  
+> 🔗 [View the quote](https://www.goodreads.com/quotes/8833090-ignorance-leads-to-fear-fear-leads-to-hatred-and-hatred)
 ---
 
 ## Citation
@@ -53,4 +62,5 @@ If you use this dataset, please cite:
   year = {2025},
   note = {To appear}
 }
+
 
