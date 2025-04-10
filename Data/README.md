@@ -1,3 +1,20 @@
+# Counterspeech-persuasion-modes
+# Hatred Stems from Ignorance: Persuasion Modes in Countering Hate Speech
+
+**Alyahya, G. & Aldayel, A. (2025).**  
+*To appear in the Proceedings of the nineteenth International AAAI Conference on Web and Social Media (ICWSM 2025)*
+
+📄 [Read the Paper](https://arxiv.org/abs/2403.15449)  
+🗂️ CC0-1.0 License  
+
+---
+
+## Overview
+
+This repository contains the **persuasion-mode annotations** applied to two well-known counterspeech datasets, focusing on dialog-based hate speech responses. We provide a coarse-grain examination of the persuasion modes used in hate speech and counterspeech based on emotion, reason, and credibility.
+
+
+
 ## Dataset Description
 
 To conduct our experiment, we selected two recent and well-known counterspeech datasets:
